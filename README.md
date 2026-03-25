@@ -1,7 +1,7 @@
 # ⚡ Blitz Agent for Github Copilot
 **End AI Amnesia. Lightweight Knowledge Layer for GitHub Copilot.**
 
-Blitz builds a lightweight knowledge layer that gives GitHub Copilot ~80% of your project's context before it writes a single line of code. Your agent stops acting like a lost new hire and starts working like a senior engineer who already knows your architecture.
+Blitz builds a lightweight knowledge layer that gives GitHub Copilot ~80% of your project's context before it touches a single line of code. Your agent stops acting like a lost new hire and starts working like a senior engineer who already knows your architecture.
 
 Initialize once: Persistent context across all sessions.
 
